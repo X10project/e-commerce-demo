@@ -98,7 +98,7 @@ TEMPLATES = [{
 
 # Make this unique, and don't share it with anybody.
 # SECRET_KEY = os.environ.get('SECRET_KEY')
-SECRET_KEY = "THIS_IS_GOING_TO_BE_CHALLENGING_TO_FIGURE_OUT"
+SECRET_KEY = "THIS_IS_CHALLENGING_TO_FIGURE_OUT"
 
 MIDDLEWARE_CLASSES = [
     'django.contrib.sessions.middleware.SessionMiddleware',
